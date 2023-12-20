@@ -1,0 +1,8 @@
+{
+  "short_name": "Fallout 4 Perks",
+  "name": "View and assign Fallout 4 stats and perks online with in-game interface",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#3b4547"
+}
