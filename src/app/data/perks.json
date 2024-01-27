@@ -1,0 +1,1879 @@
+[
+  {
+    "name": "Iron Fist",
+    "attributeType": "STR",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Channel your chi to unleash devastating fury! Punching attacks do 20% more damage to your opponent.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Punching attacks now do 40% more damage and can disarm your opponent.",
+        "characterLevel": 9
+      },
+      {
+        "rank": 3,
+        "description": "Punching attacks now do 60% more damage. Unarmed Power Attacks have a chance to cripple one of your opponent's limbs.",
+        "characterLevel": 18
+      },
+      {
+        "rank": 4,
+        "description": "Punching attacks now do 80% more damage. Unarmed Power Attacks have an increased chance to cripple one of your opponent's limbs.",
+        "characterLevel": 31
+      },
+      {
+        "rank": 5,
+        "description": "Punching attacks now do double damage. Criticals in V.A.T.S. will paralyze your opponent.",
+        "characterLevel": 46
+      }
+    ]
+  },
+  {
+    "name": "Big Leagues",
+    "attributeType": "STR",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Swing for the fences! Do 20% more melee weapon damage.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You now do 40% more melee weapon damage and gain a chance to disarm your opponent.",
+        "characterLevel": 7
+      },
+      {
+        "rank": 3,
+        "description": "You now do 60% more melee weapon damage and gain an increased chance to disarm your opponent.",
+        "characterLevel": 15
+      },
+      {
+        "rank": 4,
+        "description": "You now do 80% more melee weapon damage and hit all targets in front of you.",
+        "characterLevel": 27
+      },
+      {
+        "rank": 5,
+        "description": "You now do double damage with a melee weapon, and gain a chance to cripple your opponent, or grand slam their head clean off!",
+        "characterLevel": 42
+      }
+    ]
+  },
+  {
+    "name": "Armorer",
+    "attributeType": "STR",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Protect yourself from the dangers of the Wasteland with access to base level and Rank 1 armor mods.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You gain access to Rank 2 armor mods.",
+        "characterLevel": 13
+      },
+      {
+        "rank": 3,
+        "description": "You gain access to Rank 3 armor mods.",
+        "characterLevel": 25
+      },
+      {
+        "rank": 4,
+        "description": "You gain access to Rank 4 armor mods.",
+        "characterLevel": 39
+      }
+    ]
+  },
+  {
+    "name": "Blacksmith",
+    "attributeType": "STR",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Fire up the forge and gain access to base level and Rank 1 melee weapon mods.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You gain access to Rank 2 melee weapon mods.",
+        "characterLevel": 16
+      },
+      {
+        "rank": 3,
+        "description": "You gain access to Rank 3 melee weapon mods.",
+        "characterLevel": 29
+      }
+    ]
+  },
+  {
+    "name": "Heavy Gunner",
+    "attributeType": "STR",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Thanks to practice and conditioning, heavy guns do 20% more damage.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Heavy guns now do 40% more damage, and have improved hip fire accuracy.",
+        "characterLevel": 11
+      },
+      {
+        "rank": 3,
+        "description": "Heavy guns now do 60% more damage. Hip fire accuracy is increased even more.",
+        "characterLevel": 21
+      },
+      {
+        "rank": 4,
+        "description": "Heavy guns now do 80% more damage and have a chance to stagger your opponent.",
+        "characterLevel": 35
+      },
+      {
+        "rank": 5,
+        "description": "Heavy guns now do double damage.",
+        "characterLevel": 47
+      }
+    ]
+  },
+  {
+    "name": "Strong Back",
+    "attributeType": "STR",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "What are you, part pack mule? Gain +25 to carry weight",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You now have +50 to carry weight.",
+        "characterLevel": 10
+      },
+      {
+        "rank": 3,
+        "description": "When overencumbered, you can use Action Points to run.",
+        "characterLevel": 20
+      },
+      {
+        "rank": 4,
+        "description": "(Normal mode) When overencumbered, you can fast travel. (Survival mode) When overencumbered, you will not become injured.",
+        "characterLevel": 30
+      },
+      {
+        "rank": 5,
+        "description": "When overencumbered, running costs 50% less action points.",
+        "characterLevel": 40,
+        "addOnName": "Far Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Steady Aim",
+    "attributeType": "STR",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Stay on target! Hip-fire accuracy is improved when firing any gun.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Hip-fire accuracy is improved even more when firing any gun.",
+        "characterLevel": 28
+      },
+      {
+        "rank": 3,
+        "description": "Hip-fire damage is improved when firing any gun.",
+        "characterLevel": 49,
+        "addOnName": "Nuka-World"
+      }
+    ]
+  },
+  {
+    "name": "Basher",
+    "attributeType": "STR",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Get up close and personal! Gun bashing does 25% more damage.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Gun bashing now does 50% more damage and possibly cripples your opponent.",
+        "characterLevel": 5
+      },
+      {
+        "rank": 3,
+        "description": "Gun bashing now does 75% more damage and has an increased chance to cripple your opponent.",
+        "characterLevel": 14
+      },
+      {
+        "rank": 4,
+        "description": "Gun bashing does double damage and has an increased chance to cripple your opponent. It may also inflict a Critical Hit.",
+        "characterLevel": 26
+      }
+    ]
+  },
+  {
+    "name": "Rooted",
+    "attributeType": "STR",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You're part tree! While standing still, you gain +25 Damage Resistance and your melee and unarmed attacks deal 25% more damage.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "While standing still, you now gain +50 Damage Resistance and your melee and unarmed attacks deal 50% more damage.",
+        "characterLevel": 22
+      },
+      {
+        "rank": 3,
+        "description": "While standing still, you may automatically disarm enemies that use melee weapons against you.",
+        "characterLevel": 43
+      }
+    ]
+  },
+  {
+    "name": "Pain Train",
+    "attributeType": "STR",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Choo Choo! All aboard! While wearing Power Armor, sprinting into enemies hurts and staggers them. (Robots and oversized enemies are immune to the stagger.)",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Sprinting into enemies while wearing Power Armor now causes severe damage and a more powerful stagger. (Robots and oversized enemies are immune to the stagger.)",
+        "characterLevel": 24
+      },
+      {
+        "rank": 3,
+        "description": "Sprinting into enemies while wearing Power Armor now causes massive damage and knocks them down. Impact landing near enemies inflicts even more damage.",
+        "characterLevel": 50
+      }
+    ]
+  },
+  {
+    "name": "Pickpocket",
+    "attributeType": "PER",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Your quick hands and sticky fingers make picking pockets 25% easier.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Picking pockets is now 50% easier. You can place a live grenade in a person's inventory.",
+        "characterLevel": 6
+      },
+      {
+        "rank": 3,
+        "description": "Picking pockets is now 75% easier, and you can steal equipped weapons.",
+        "characterLevel": 17
+      },
+      {
+        "rank": 4,
+        "description": "Picking pockets is now twice as easy, and you can steal equipped items.",
+        "characterLevel": 30
+      }
+    ]
+  },
+  {
+    "name": "Rifleman",
+    "attributeType": "PER",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Keep your distance long and your kill-count high. Attacks with non-automatic rifles do 20% more damage.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Attacks with non-automatic rifles do 40% more damage and ignore 15% of a target's armor.",
+        "characterLevel": 9
+      },
+      {
+        "rank": 3,
+        "description": "Attacks with non-automatic rifles do 60% more damage and ignore 20% of a target's armor.",
+        "characterLevel": 18
+      },
+      {
+        "rank": 4,
+        "description": "Attacks with non-automatic rifles do 80% more damage and ignore 25% of a target's armor. They also have a slight chance of crippling a limb.",
+        "characterLevel": 31
+      },
+      {
+        "rank": 5,
+        "description": "Attacks with non-automatic rifles do double damage and ignore 30% of a target's armor. They also have a slightly higher chance of crippling a limb.",
+        "characterLevel": 46
+      }
+    ]
+  },
+  {
+    "name": "Awareness",
+    "attributeType": "PER",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "To defeat your enemies, know their weaknesses! You can view a target's specific damage resistances in V.A.T.S.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Knowing their weaknesses lets you attack more efficiently. 5% increase to hit chance and damage dealt to VATS targets.",
+        "characterLevel": 14,
+        "addOnName": "Nuka-World"
+      }
+    ]
+  },
+  {
+    "name": "Locksmith",
+    "attributeType": "PER",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Your nimble fingers allow you to pick Advanced locks.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You can pick Expert locks.",
+        "characterLevel": 7
+      },
+      {
+        "rank": 3,
+        "description": "You can pick Master locks.",
+        "characterLevel": 18
+      },
+      {
+        "rank": 4,
+        "description": "Your bobby pins never break during lockpicking.",
+        "characterLevel": 41
+      }
+    ]
+  },
+  {
+    "name": "Demolition Expert",
+    "attributeType": "PER",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "The bigger the boom, the better! Your explosives do 25% more damage, and you can craft explosives at any chemistry station.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Your explosives do 50% more damage, and grenades gain a throwing arc.",
+        "characterLevel": 10
+      },
+      {
+        "rank": 3,
+        "description": "Your explosives do 75% more damage and affect a larger area.",
+        "characterLevel": 22
+      },
+      {
+        "rank": 4,
+        "description": "Your explosives now do double damage. Mines and grenades shot in V.A.T.S explode for double damage, too.",
+        "characterLevel": 34
+      }
+    ]
+  },
+  {
+    "name": "Night Person",
+    "attributeType": "PER",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You are a creature of the night! Gain +2 to Intelligence and Perception between the hours of 6:00 p.m. and 6:00 a.m.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You now have +3 to Intelligence and Perception between the hours of 6:00 p.m. and 6:00 a.m., and night vision when sneaking.",
+        "characterLevel": 25
+      },
+      {
+        "rank": 3,
+        "description": "You have 30 extra health between the hours of 6:00 PM and 6:00 AM.",
+        "characterLevel": 37,
+        "addOnName": "Far Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Refractor",
+    "attributeType": "PER",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You must be part mirror! Instantly gain +10 Energy Resistance.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "You now have +20 Energy Resistance.",
+        "characterLevel": 11
+      },
+      {
+        "rank": 3,
+        "description": "You now have +30 Energy Resistance.",
+        "characterLevel": 21
+      },
+      {
+        "rank": 4,
+        "description": "You now have +40 Energy Resistance.",
+        "characterLevel": 35
+      },
+      {
+        "rank": 5,
+        "description": "You now have +50 Energy Resistance.",
+        "characterLevel": 42
+      }
+    ]
+  },
+  {
+    "name": "Sniper",
+    "attributeType": "PER",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "It's all about focus. You have improved control and can hold your breath longer when aiming with scopes.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "Non-automatic, scoped rifles have a chance of knocking down your target. Chance is 15%",
+        "characterLevel": 13
+      },
+      {
+        "rank": 3,
+        "description": "Non-automatic, scoped rifles gain +25% accuracy to head shot in V.A.T.S.",
+        "characterLevel": 26
+      }
+    ]
+  },
+  {
+    "name": "Penetrator",
+    "attributeType": "PER",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "There's no place to hide! In V.A.T.S you can target an enemy's body parts that are blocked by cover, with a decrease in accuracy.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "In V.A.T.S when you target an enemy's body parts that are blocked by cover, there is no decrease in accuracy.",
+        "characterLevel": 28
+      }
+    ]
+  },
+  {
+    "name": "Concentrated Fire",
+    "attributeType": "PER",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Stay Focused! In V.A.T.S every attack on the same body part gains +10% accuracy.",
+        "characterLevel": null
+      },
+      {
+        "rank": 2,
+        "description": "In V.A.T.S every attack on the same body part gains +15% accuracy.",
+        "characterLevel": 26
+      },
+      {
+        "rank": 3,
+        "description": "In V.A.T.S every attack on the same body part gains +20% accuracy and does 20% more damage.",
+        "characterLevel": 50
+      }
+    ]
+  },
+  {
+    "name": "Toughness",
+    "attributeType": "END",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "If nothing else, you can take a beating! Instantly gain +10 damage resistance.",
+        "characterLevel": null,
+        "formID": "0004A0AB"
+      },
+      {
+        "rank": 2,
+        "description": "You now have +20 damage resistance.",
+        "characterLevel": 9,
+        "formID": "0004A0AE"
+      },
+      {
+        "rank": 3,
+        "description": "You now have +30 damage resistance.",
+        "characterLevel": 18,
+        "formID": "0004A0AF"
+      },
+      {
+        "rank": 4,
+        "description": "You now have +40 damage resistance.",
+        "characterLevel": 31,
+        "formID": "00065E5D"
+      },
+      {
+        "rank": 5,
+        "description": "You now have +50 damage resistance.",
+        "characterLevel": 46,
+        "formID": "00065E5E"
+      }
+    ]
+  },
+  {
+    "name": "Lead Belly",
+    "attributeType": "END",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Your digestive tract has adjusted to the weirdness of the Wasteland! Take less radiation from eating or drinking.",
+        "characterLevel": null,
+        "formID": "0004A0B9"
+      },
+      {
+        "rank": 2,
+        "description": "You take even less radiation from eating or drinking.",
+        "characterLevel": 6,
+        "formID": "00024B00"
+      },
+      {
+        "rank": 3,
+        "description": "You take no radiation from eating or drinking.",
+        "characterLevel": 17,
+        "formID": "00024B01"
+      }
+    ]
+  },
+  {
+    "name": "Lifegiver",
+    "attributeType": "END",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You embody wellness! Instantly gain +20 maximum Health.",
+        "characterLevel": null,
+        "formID": "0004A0CF"
+      },
+      {
+        "rank": 2,
+        "description": "You instantly gain another +20 maximum Health.",
+        "characterLevel": 8,
+        "formID": "001D2465"
+      },
+      {
+        "rank": 3,
+        "description": "You instantly gain another +20 maximum Health, and slowly regenerate lost Health.",
+        "characterLevel": 20,
+        "formID": "001D2467"
+      }
+    ]
+  },
+  {
+    "name": "Chem Resistant",
+    "attributeType": "END",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "All the rush without the hassle! You're 50% less likely to get addicted when consuming Chems.",
+        "characterLevel": null,
+        "formID": "0004A0D5"
+      },
+      {
+        "rank": 2,
+        "description": "You gain complete immunity to chem addiction.",
+        "characterLevel": 22,
+        "formID": "00065E0C"
+      }
+    ]
+  },
+  {
+    "name": "Aquaboy/Aquagirl",
+    "attributeType": "END",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Water is your ally. You no longer take radiation damage from swimming, and can breathe underwater.",
+        "characterLevel": null,
+        "formID": "000E36F9"
+      },
+      {
+        "rank": 2,
+        "description": "You become totally undetectable while submerged.",
+        "characterLevel": 21,
+        "formID": "001D248D"
+      }
+    ]
+  },
+  {
+    "name": "Rad Resistant",
+    "attributeType": "END",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Exposure to the Wasteland has made you more resilient, instantly granting +10 Radiation Resistance.",
+        "characterLevel": null,
+        "formID": "001D2479"
+      },
+      {
+        "rank": 2,
+        "description": "You now have +20 Radiation Resistance.",
+        "characterLevel": 13,
+        "formID": "001D247A"
+      },
+      {
+        "rank": 3,
+        "description": "You now have +30 Radiation Resistance.",
+        "characterLevel": 26,
+        "formID": "001D247B"
+      },
+      {
+        "rank": 4,
+        "description": "You now have +40 Radiation Resistance.",
+        "characterLevel": 35,
+        "addOnName": "Far Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Adamantium Skeleton",
+    "attributeType": "END",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Your skeleton has been infused with indestructible metal, reducing limb damage by 30%.",
+        "characterLevel": null,
+        "formID": "0004C92D"
+      },
+      {
+        "rank": 2,
+        "description": "Your limb damage is now reduced by 60%.",
+        "characterLevel": 13,
+        "formID": "00024AFD"
+      },
+      {
+        "rank": 3,
+        "description": "Your limb damage is completely eliminated.",
+        "characterLevel": 26,
+        "formID": "00024AFE"
+      }
+    ]
+  },
+  {
+    "name": "Cannibal",
+    "attributeType": "END",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Feast on mortal flesh to heal your wounds! Eating human corpses restores Health.",
+        "characterLevel": null,
+        "formID": "0004B259"
+      },
+      {
+        "rank": 2,
+        "description": "Eating Ghoul or Super Mutant corpses restores Health.",
+        "characterLevel": 19,
+        "formID": "001D1A62"
+      },
+      {
+        "rank": 3,
+        "description": "Eating human, Ghoul or Super Mutant corpses now restores a significant amount of Health.",
+        "characterLevel": 38,
+        "formID": "001D1A63"
+      }
+    ]
+  },
+  {
+    "name": "Ghoulish",
+    "attributeType": "END",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Sure, you're still human - on the outside! Radiation now regenerates your lost Health.",
+        "characterLevel": null,
+        "formID": "0004D89E"
+      },
+      {
+        "rank": 2,
+        "description": "Radiation now regenerates even more of your lost Health.",
+        "characterLevel": 24,
+        "formID": "00065E22"
+      },
+      {
+        "rank": 3,
+        "description": "Radiation now regenerates even more of your lost Health, and some Feral Ghouls will randomly become friendly.",
+        "characterLevel": 48,
+        "formID": "00065E23"
+      },
+      {
+        "rank": 4,
+        "description": "Rad damage will now begin to slowly heal, restoring health in the process.",
+        "characterLevel": 50,
+        "addOnName": "Nuka-World"
+      }
+    ]
+  },
+  {
+    "name": "Solar Powered",
+    "attributeType": "END",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Catch some rays! Gain +2 to Strength and Endurance between the hours of 6:00 a.m. and 6:00 p.m.",
+        "characterLevel": null,
+        "formID": "0004D8A7"
+      },
+      {
+        "rank": 2,
+        "description": "Sunlight slowly heals your radiation damage.",
+        "characterLevel": 27,
+        "formID": "001D2484"
+      },
+      {
+        "rank": 3,
+        "description": "Sunlight slowly regenerates your lost Health.",
+        "characterLevel": 50,
+        "formID": "001D2485"
+      }
+    ]
+  },
+  {
+    "name": "Cap Collector",
+    "attributeType": "CHR",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You've mastered the art of the deal! Buying and selling prices at vendors are better.",
+        "characterLevel": null,
+        "formID": "001D2456"
+      },
+      {
+        "rank": 2,
+        "description": "Buying and selling prices of vendors are now much better.",
+        "characterLevel": 20,
+        "formID": "000D75E2"
+      },
+      {
+        "rank": 3,
+        "description": "You can now invest a total of 500 caps to raise a store's buying capacity.",
+        "characterLevel": 41,
+        "formID": "001D2457"
+      }
+    ]
+  },
+  {
+    "name": "Lady Killer/Black Widow",
+    "attributeType": "CHR",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You're charming... and dangerous. Men/Women suffer +5% damage in combat, and are easier to persuade in dialogue.",
+        "characterLevel": null,
+        "formID": "00019AA3, 0004A0D4"
+      },
+      {
+        "rank": 2,
+        "description": "Men/Women now suffer +10% damage in combat, and are even easier to persuade in dialogue. They are also easier to pacify with the Intimidation perk.",
+        "characterLevel": 7,
+        "formID": "00065E33, 00065E31"
+      },
+      {
+        "rank": 3,
+        "description": "Men/Women now suffer +15% damage in combat, and are much easier to persuade in dialogue. They are now even easier to pacify with the Intimidation perk.",
+        "characterLevel": 22,
+        "formID": "00065E34, 00065E32"
+      }
+    ]
+  },
+  {
+    "name": "Lone Wanderer",
+    "attributeType": "CHR",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Who needs friends, anyway? When adventuring without a companion, you take 15% less damage and carry weight increases by 50.",
+        "characterLevel": null,
+        "formID": "001D246B"
+      },
+      {
+        "rank": 2,
+        "description": "When adventuring without a companion, you take 30% less damage and carry weight increases by 100.",
+        "characterLevel": 17,
+        "formID": "001D246D"
+      },
+      {
+        "rank": 3,
+        "description": "When adventuring without a companion, you do 25% more damage.",
+        "characterLevel": 40,
+        "formID": "001D246E"
+      },
+      {
+        "rank": 4,
+        "description": "When adventuring without a companion, you have 25 more action points.",
+        "characterLevel": 50,
+        "addOnName": "Far Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Attack Dog",
+    "attributeType": "CHR",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Your faithful canine companion can hold an enemy, giving you a greater chance to hit them in V.A.T.S.",
+        "characterLevel": null,
+        "formID": "0004B26D"
+      },
+      {
+        "rank": 2,
+        "description": "When your dog holds an enemy, there's a chance he'll cripple the limb he's biting.",
+        "characterLevel": 9,
+        "formID": "001D244D"
+      },
+      {
+        "rank": 3,
+        "description": "When your dog holds an enemy, there's a chance he'll cause them to bleed.",
+        "characterLevel": 25,
+        "formID": "001D244E"
+      },
+      {
+        "rank": 4,
+        "description": "When adventuring with your dog, you take 10% less damage.",
+        "characterLevel": 31,
+        "addOnName": "Nuka-World"
+      }
+    ]
+  },
+  {
+    "name": "Animal Friend",
+    "attributeType": "CHR",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Commune with beasts! With your gun, aim at any animal below your level and gain a chance to pacify it.",
+        "characterLevel": null,
+        "formID": "0001E67F"
+      },
+      {
+        "rank": 2,
+        "description": "When you successfully pacify an animal, you can incite it to attack.",
+        "characterLevel": 12,
+        "formID": "0004A0D9"
+      },
+      {
+        "rank": 3,
+        "description": "When you successfully pacify an animal, you can give it specific commands.",
+        "characterLevel": 28,
+        "formID": "001D2450"
+      }
+    ]
+  },
+  {
+    "name": "Local Leader",
+    "attributeType": "CHR",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "As the ruler everyone turns to, you are able to establish supply lines between your workshop settlements.",
+        "characterLevel": null,
+        "formID": "0004D88D"
+      },
+      {
+        "rank": 2,
+        "description": "You can build stores and workstations at workshop settlements.",
+        "characterLevel": 14,
+        "formID": "001D2468"
+      }
+    ]
+  },
+  {
+    "name": "Party Girl/Party Boy",
+    "attributeType": "CHR",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Nobody has a good time like you! There's no chance you'll get addicted to alcohol.",
+        "characterLevel": null,
+        "formID": "0004D887, 0004D888"
+      },
+      {
+        "rank": 2,
+        "description": "The effects of alcohol are doubled.",
+        "characterLevel": 15,
+        "formID": "001D2473, 001D2475"
+      },
+      {
+        "rank": 3,
+        "description": "Your Luck is increased by 3 while you're under the influence of alcohol.",
+        "characterLevel": 37,
+        "formID": "001D2474, 001D2476"
+      }
+    ]
+  },
+  {
+    "name": "Inspirational",
+    "attributeType": "CHR",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Because you lead by example, your companion does more damage in combat, and cannot hurt you.",
+        "characterLevel": null,
+        "formID": "001D2461"
+      },
+      {
+        "rank": 2,
+        "description": "Your companion resists more damage in combat, and can't be harmed by your attacks.",
+        "characterLevel": 19,
+        "formID": "001D2462"
+      },
+      {
+        "rank": 3,
+        "description": "Your companion can carry more items.",
+        "characterLevel": 43,
+        "formID": "001D2463"
+      }
+    ]
+  },
+  {
+    "name": "Wasteland Whisperer",
+    "attributeType": "CHR",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Master the post-apocalypse! With your gun, aim at any Wasteland creature below your level and gain a chance to pacify it.",
+        "characterLevel": null,
+        "formID": "001D248A"
+      },
+      {
+        "rank": 2,
+        "description": "When you successfully pacify a creature, you can incite it to attack.",
+        "characterLevel": 21,
+        "formID": "001D248B"
+      },
+      {
+        "rank": 3,
+        "description": "When you successfully pacify a creature, you can give it specific commands.",
+        "characterLevel": 49,
+        "formID": "001D248C"
+      }
+    ]
+  },
+  {
+    "name": "Intimidation",
+    "attributeType": "CHR",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Time to show everyone who's boss! With your gun, aim at any human opponent below your level and gain a chance to pacify them.",
+        "characterLevel": null,
+        "formID": "001D02B5"
+      },
+      {
+        "rank": 2,
+        "description": "When you successfully pacify someone, you can incite them to attack.",
+        "characterLevel": 23,
+        "formID": "001D02B6"
+      },
+      {
+        "rank": 3,
+        "description": "When you successfully pacify someone, you can give them specific commands.",
+        "characterLevel": 50,
+        "formID": "001D02B7"
+      }
+    ]
+  },
+  {
+    "name": "V.A.N.S.",
+    "attributeType": "INT",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Let Vault-Tec guide you! The path to your closest quest target is displayed in V.A.T.S.",
+        "characterLevel": null,
+        "formID": "000207D1"
+      },
+      {
+        "rank": 2,
+        "description": "Gain +2 to Perception.",
+        "characterLevel": 36,
+        "formID": "xx0296C0"
+      }
+    ]
+  },
+  {
+    "name": "Medic",
+    "attributeType": "INT",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Is there a doctor in the house? Stimpaks restore 40% of lost Health, and RadAway removes 40% of radiation.",
+        "characterLevel": null,
+        "formID": "0004C926"
+      },
+      {
+        "rank": 2,
+        "description": "Stimpaks restore 60% of lost Health, and RadAway removes 60% of radiation.",
+        "characterLevel": 18,
+        "formID": "0006FA1C"
+      },
+      {
+        "rank": 3,
+        "description": "Stimpaks restore 80% of lost Health, and RadAway removes 80% of radiation.",
+        "characterLevel": 30,
+        "formID": "0006FA1D"
+      },
+      {
+        "rank": 4,
+        "description": "Stimpaks and RadAway restore all lost health and radiation, and work much more quickly.",
+        "characterLevel": 49,
+        "formID": "00065E35"
+      }
+    ]
+  },
+  {
+    "name": "Gun Nut",
+    "attributeType": "INT",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Shoot first, kill first, with access to base level and Rank 1 gun mods.",
+        "characterLevel": null,
+        "formID": "0004A0DA"
+      },
+      {
+        "rank": 2,
+        "description": "You gain access to Rank 2 gun mods.",
+        "characterLevel": 13,
+        "formID": "0004A0DB"
+      },
+      {
+        "rank": 3,
+        "description": "You gain access to Rank 3 gun mods.",
+        "characterLevel": 25,
+        "formID": "0004A0DC"
+      },
+      {
+        "rank": 4,
+        "description": "You gain access to Rank 4 gun mods.",
+        "characterLevel": 39,
+        "formID": "0016578E"
+      }
+    ]
+  },
+  {
+    "name": "Hacker",
+    "attributeType": "INT",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Knowledge of cutting-edge computer encryption allows you to hack Advanced terminals.",
+        "characterLevel": null,
+        "formID": "00052403"
+      },
+      {
+        "rank": 2,
+        "description": "You can hack Expert terminals.",
+        "characterLevel": 9,
+        "formID": "00052404"
+      },
+      {
+        "rank": 3,
+        "description": "You can hack Master terminals.",
+        "characterLevel": 21,
+        "formID": "00052405"
+      },
+      {
+        "rank": 4,
+        "description": "When hacking, you never get locked out of a terminal when things go wrong.",
+        "characterLevel": 33,
+        "formID": "001D245D"
+      }
+    ]
+  },
+  {
+    "name": "Scrapper",
+    "attributeType": "INT",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Waste not, want not! You can salvage uncommon components like screws, aluminum, and copper when scrapping weapons and armor.",
+        "characterLevel": null,
+        "formID": "00065E65"
+      },
+      {
+        "rank": 2,
+        "description": "You can salvage rare components like circuitry, nuclear material, and fiber optics when scrapping weapons and armor. Items with favorited components are highlighted.",
+        "characterLevel": 23,
+        "formID": "001D2483"
+      },
+      {
+        "rank": 3,
+        "description": "You get more from salvaging. Appears to only apply to uncommon components, i.e., those affected by the first level of the perk.",
+        "characterLevel": 40,
+        "formID": "xx0423A5"
+      }
+    ]
+  },
+  {
+    "name": "Science!",
+    "attributeType": "INT",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Take full advantage of advanced technology with access to base level and Rank 1 high-tech mods.",
+        "characterLevel": null,
+        "formID": "000264D9"
+      },
+      {
+        "rank": 2,
+        "description": "You gain access to Rank 2 high-tech mods.",
+        "characterLevel": 17,
+        "formID": "000264DA"
+      },
+      {
+        "rank": 3,
+        "description": "You gain access to Rank 3 high-tech mods.",
+        "characterLevel": 28,
+        "formID": "000264DB"
+      },
+      {
+        "rank": 4,
+        "description": "You gain access to Rank 4 high-tech mods.",
+        "characterLevel": 41,
+        "formID": "0016578F"
+      }
+    ]
+  },
+  {
+    "name": "Chemist",
+    "attributeType": "INT",
+    "attributeRank": "7*",
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Any chems you take last 50% longer. Far out.",
+        "characterLevel": null,
+        "formID": "000E36FF"
+      },
+      {
+        "rank": 2,
+        "description": "Any chems you take now last twice as long.",
+        "characterLevel": 16,
+        "formID": "000E3700"
+      },
+      {
+        "rank": 3,
+        "description": "Any chems you take now last an additional 150% longer.",
+        "characterLevel": 32,
+        "formID": "000E3701"
+      },
+      {
+        "rank": 4,
+        "description": "Any chems you take now last an additional 200% longer.",
+        "characterLevel": 45,
+        "formID": "001D2458"
+      }
+    ]
+  },
+  {
+    "name": "Robotics Expert",
+    "attributeType": "INT",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Machines will always serve humans, if you have anything to say about it. Hack a robot, and gain a chance to power it on or off, or initiate a self-destruct.",
+        "characterLevel": null,
+        "formID": "0004D889"
+      },
+      {
+        "rank": 2,
+        "description": "When you successfully hack a robot, you can incite it to attack.",
+        "characterLevel": 19,
+        "formID": "00065E64"
+      },
+      {
+        "rank": 3,
+        "description": "When you successfully hack a robot, you can give it specific commands.",
+        "characterLevel": 44,
+        "formID": "001ACF96"
+      }
+    ]
+  },
+  {
+    "name": "Nuclear Physicist",
+    "attributeType": "INT",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You've learned to split the atom... and command it. Radiation weapons do 50% more damage and Fusion Cores last an extra 25% longer.",
+        "characterLevel": null,
+        "formID": "001D246F"
+      },
+      {
+        "rank": 2,
+        "description": "Radiation weapons now do double damage and Fusion Cores last an extra 50% longer.",
+        "characterLevel": 14,
+        "formID": "001D2470"
+      },
+      {
+        "rank": 3,
+        "description": "Fusion Cores can be ejected from Power Armor like devastating grenades and Fusion Cores last twice as long.",
+        "characterLevel": 26,
+        "formID": "001D2471"
+      }
+    ]
+  },
+  {
+    "name": "Nerd Rage!",
+    "attributeType": "INT",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Genius. Is. ANGRY! When your Health drops below 20%, time slows and you gain +20 Damage resistance and do 20% more damage while the effect lasts.",
+        "characterLevel": null,
+        "formID": "0004D886"
+      },
+      {
+        "rank": 2,
+        "description": "You now gain 30 more Damage Resistance and do 30% more damage while Nerd Rage is in effect.",
+        "characterLevel": 31,
+        "formID": "00065E37"
+      },
+      {
+        "rank": 3,
+        "description": "You now gain 40 more Damage Resistance and do 40% more damage while Nerd Rage is in effect. Kills you make while enraged restore some lost Health.",
+        "characterLevel": 50,
+        "formID": "00065E38"
+      }
+    ]
+  },
+  {
+    "name": "Gunslinger",
+    "attributeType": "AGI",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Channel the spirit of the old west! Non-automatic pistols do 20% more damage.",
+        "characterLevel": null,
+        "formID": "0004A09F"
+      },
+      {
+        "rank": 2,
+        "description": "Non-automatic pistols now do 40% more damage and have increased range.",
+        "characterLevel": 7,
+        "formID": "0004A0A9"
+      },
+      {
+        "rank": 3,
+        "description": "Non-automatic pistols now do 60% more damage and range is increased even further.",
+        "characterLevel": 15,
+        "formID": "0004A0AA"
+      },
+      {
+        "rank": 4,
+        "description": "Non-automatic pistols now do 80% more damage and their attacks can disarm opponents.",
+        "characterLevel": 27,
+        "formID": "0006FA1E"
+      },
+      {
+        "rank": 5,
+        "description": "Non-automatic pistols now do double damage. Their attacks have a much better chance to disarm opponents, and may even cripple a limb.",
+        "characterLevel": 42,
+        "formID": "00065E24"
+      }
+    ]
+  },
+  {
+    "name": "Commando",
+    "attributeType": "AGI",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Rigorous combat training means automatic weapons do 20% more damage.",
+        "characterLevel": null,
+        "formID": "0004A0C5"
+      },
+      {
+        "rank": 2,
+        "description": "Attacks with automatic weapons do 40% more damage, with improved hip fire accuracy.",
+        "characterLevel": 11,
+        "formID": "0004A0C6"
+      },
+      {
+        "rank": 3,
+        "description": "Attacks with automatic weapons do 60% more damage. Hip fire accuracy is improved even more.",
+        "characterLevel": 21,
+        "formID": "0004A0C7"
+      },
+      {
+        "rank": 4,
+        "description": "Attacks with automatic weapons do 80% more damage and gain a chance to stagger opponents.",
+        "characterLevel": 35,
+        "formID": "0006FA24"
+      },
+      {
+        "rank": 5,
+        "description": "Your automatic weapons now do double damage and have a greater chance to stagger opponents.",
+        "characterLevel": 49,
+        "formID": "00065E0D"
+      }
+    ]
+  },
+  {
+    "name": "Sneak",
+    "attributeType": "AGI",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Become whisper, become shadow. You are 20% harder to detect while sneaking.",
+        "characterLevel": null,
+        "formID": "0004C935"
+      },
+      {
+        "rank": 2,
+        "description": "You are now 30% harder to detect while sneaking, and no longer trigger floor-based traps.",
+        "characterLevel": 5,
+        "formID": "000B9882"
+      },
+      {
+        "rank": 3,
+        "description": "You are now 40% harder to detect while sneaking, and no longer trigger enemy mines.",
+        "characterLevel": 12,
+        "formID": "000B9883"
+      },
+      {
+        "rank": 4,
+        "description": "You are now 50% harder to detect while sneaking, and running no longer adversely affects stealth.",
+        "characterLevel": 23,
+        "formID": "000B9884"
+      },
+      {
+        "rank": 5,
+        "description": "Engaging stealth causes distant enemies to lose you.",
+        "characterLevel": 38,
+        "formID": "000B9881"
+      }
+    ]
+  },
+  {
+    "name": "Mister Sandman",
+    "attributeType": "AGI",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "As an agent of death, you can instantly kill a sleeping person. Your silenced weapons do an additional 15% sneak attack damage.",
+        "characterLevel": null,
+        "formID": "0004B258"
+      },
+      {
+        "rank": 2,
+        "description": "Your silenced weapons do an additional 30% sneak attack damage.",
+        "characterLevel": 17,
+        "formID": "001D2490"
+      },
+      {
+        "rank": 3,
+        "description": "Your silenced weapons now do 50% more sneak attack damage.",
+        "characterLevel": 30,
+        "formID": "001D2491"
+      }
+    ]
+  },
+  {
+    "name": "Action Boy/Action Girl",
+    "attributeType": "AGI",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "There's no time to waste! Action Points regenerate 25% faster.",
+        "characterLevel": null,
+        "formID": "0004D869"
+      },
+      {
+        "rank": 2,
+        "description": "Your Action Points now regenerate 50% faster.",
+        "characterLevel": 18,
+        "formID": "00065DF5"
+      },
+      {
+        "rank": 3,
+        "description": "Your Action Points now regenerate 75% faster.",
+        "characterLevel": 38,
+        "formID": "xx034E7F"
+      }
+    ]
+  },
+  {
+    "name": "Moving Target",
+    "attributeType": "AGI",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "They can't hurt what they can't hit! Get 25+ Damage Resistance and 25+ Energy Resistance when you're sprinting.",
+        "characterLevel": null,
+        "formID": "0004DDEE"
+      },
+      {
+        "rank": 2,
+        "description": "You now get +50 Damage Resistance and +50 Energy Resistance when you're sprinting.",
+        "characterLevel": 24,
+        "formID": "001D2492"
+      },
+      {
+        "rank": 3,
+        "description": "Sprinting costs 50% fewer Action Points.",
+        "characterLevel": 44,
+        "formID": "001E0791"
+      }
+    ]
+  },
+  {
+    "name": "Ninja",
+    "attributeType": "AGI",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Trained as a shadow warrior, your ranged sneak attack does 2.5x normal damage and your melee attacks do 4x normal damage.",
+        "characterLevel": null,
+        "formID": "0004D8A6"
+      },
+      {
+        "rank": 2,
+        "description": "Your ranged sneak attacks do 3x normal damage and your melee sneak attacks do 5x normal damage.",
+        "characterLevel": 16,
+        "formID": "000E3704"
+      },
+      {
+        "rank": 3,
+        "description": "Your ranged sneak attacks do 3.5x normal damage and your melee sneak attacks do 10x normal damage.",
+        "characterLevel": 33,
+        "formID": "000E3705"
+      }
+    ]
+  },
+  {
+    "name": "Quick Hands",
+    "attributeType": "AGI",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "In combat, there's no time to hesitate. You can reload all guns faster.",
+        "characterLevel": null,
+        "formID": "000221FC"
+      },
+      {
+        "rank": 2,
+        "description": "Reloading guns costs no Action Points in V.A.T.S.",
+        "characterLevel": 28,
+        "formID": "001D2478"
+      },
+      {
+        "rank": 3,
+        "description": "Quick and efficient. You gain 10 additional Action Points.",
+        "characterLevel": 40,
+        "formID": "xx0296BE"
+      }
+    ]
+  },
+  {
+    "name": "Blitz",
+    "attributeType": "AGI",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Find the gap and make the tackle! V.A.T.S. melee distance is increased significantly.",
+        "characterLevel": null,
+        "formID": "001D2451"
+      },
+      {
+        "rank": 2,
+        "description": "V.A.T.S. melee distance is increased even more, and the farther the Blitz distance, the greater the damage.",
+        "characterLevel": 29,
+        "formID": "001D2452"
+      }
+    ]
+  },
+  {
+    "name": "Gun Fu",
+    "attributeType": "AGI",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You've learned to apply ancient martial arts to gunplay! Do 25% more damage to your second V.A.T.S. target and beyond.",
+        "characterLevel": null,
+        "formID": "0004D881"
+      },
+      {
+        "rank": 2,
+        "description": "In V.A.T.S. you do 50% more damage to your third target and beyond.",
+        "characterLevel": 26,
+        "formID": "001D244F"
+      },
+      {
+        "rank": 3,
+        "description": "In V.A.T.S. you instantly do a Critical Hit against your fourth target and beyond.",
+        "characterLevel": 50,
+        "formID": "001D245C"
+      }
+    ]
+  },
+  {
+    "name": "Fortune Finder",
+    "attributeType": "LCK",
+    "attributeRank": 1,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You've learned to discover the Wasteland's hidden wealth, and discover more bottle caps in containers.",
+        "characterLevel": null,
+        "formID": "0004C942"
+      },
+      {
+        "rank": 2,
+        "description": "You find even more bottle caps in containers.",
+        "characterLevel": 5,
+        "formID": "001ACF98"
+      },
+      {
+        "rank": 3,
+        "description": "You find even more bottle caps in containers.",
+        "characterLevel": 25,
+        "formID": "001ACF99"
+      },
+      {
+        "rank": 4,
+        "description": "You find even more bottle caps in containers, and there is a chance of enemies exploding into a shower of caps when you kill them.",
+        "characterLevel": 40,
+        "formID": "00215CD4"
+      }
+    ]
+  },
+  {
+    "name": "Scrounger",
+    "attributeType": "LCK",
+    "attributeRank": 2,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You know just how to scavenge to keep the fight going, and find more ammunition in containers.",
+        "characterLevel": null,
+        "formID": "0004A0B0"
+      },
+      {
+        "rank": 2,
+        "description": "You find even more ammunition in containers.",
+        "characterLevel": 7,
+        "formID": "001ACF9A"
+      },
+      {
+        "rank": 3,
+        "description": "You find even more ammunition in containers.",
+        "characterLevel": 24,
+        "formID": "001ACF9B"
+      },
+      {
+        "rank": 4,
+        "description": "There is a chance to gain ammo when firing the last round in your magazine.",
+        "characterLevel": 37,
+        "formID": "001EB99C"
+      }
+    ]
+  },
+  {
+    "name": "Bloody Mess",
+    "attributeType": "LCK",
+    "attributeRank": 3,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "+5% bonus damage means enemies will sometimes explode into a gory red paste. Watch out for flying eyeballs!",
+        "characterLevel": null,
+        "formID": "0004A0BB"
+      },
+      {
+        "rank": 2,
+        "description": "You now inflict +10% damage in combat.",
+        "characterLevel": 9,
+        "formID": "001D2453"
+      },
+      {
+        "rank": 3,
+        "description": "You now inflict +15% damage in combat.",
+        "characterLevel": 31,
+        "formID": "001D2454"
+      },
+      {
+        "rank": 4,
+        "description": "When an enemy explodes, nearby enemies may suffer the same fate.",
+        "characterLevel": 47,
+        "formID": "001F418E"
+      }
+    ]
+  },
+  {
+    "name": "Mysterious Stranger",
+    "attributeType": "LCK",
+    "attributeRank": 4,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Who is he? Why does he help? Who cares! The Mysterious Stranger will appear occasionally in V.A.T.S. to lend a hand, with deadly efficiency...",
+        "characterLevel": null,
+        "formID": "0004C929"
+      },
+      {
+        "rank": 2,
+        "description": "The Mysterious Stranger appears more often in V.A.T.S.",
+        "characterLevel": 22,
+        "formID": "001D2493"
+      },
+      {
+        "rank": 3,
+        "description": "The Mysterious Stranger appears more often in V.A.T.S. When he kills an opponent, there is a chance your Critical meter gets filled.",
+        "characterLevel": 41,
+        "formID": "001D2494"
+      },
+      {
+        "rank": 4,
+        "description": "The Mysterious Stranger appears more often in V.A.T.S. When he kills an opponent, there is a high chance your Critical meter gets filled.",
+        "characterLevel": 49,
+        "formID": "xx029B26"
+      }
+    ]
+  },
+  {
+    "name": "Idiot Savant",
+    "attributeType": "LCK",
+    "attributeRank": 5,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You're not stupid! Just... different. Randomly receive 3x XP from any action, and the lower your Intelligence, the greater the chance.",
+        "characterLevel": null,
+        "formID": "001D245E"
+      },
+      {
+        "rank": 2,
+        "description": "You now randomly receive 5x XP from any action. The lower your Intelligence, the greater the chance.",
+        "characterLevel": 11,
+        "formID": "001D245F"
+      },
+      {
+        "rank": 3,
+        "description": "Randomly receiving bonus XP from any action may trigger 3x XP for all kills for a short period of time. The lower your Intelligence, the greater the chance.",
+        "characterLevel": 34,
+        "formID": "001D2460"
+      }
+    ]
+  },
+  {
+    "name": "Better Criticals",
+    "attributeType": "LCK",
+    "attributeRank": 6,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Advanced training for enhanced combat effectiveness! Criticals do 50% more extra damage.",
+        "characterLevel": null,
+        "formID": "0004D87A"
+      },
+      {
+        "rank": 2,
+        "description": "Your criticals now do twice as much extra damage.",
+        "characterLevel": 15,
+        "formID": "00065E03"
+      },
+      {
+        "rank": 3,
+        "description": "Your criticals now do 2.5x as much extra damage.",
+        "characterLevel": 40,
+        "formID": "00065E04"
+      }
+    ]
+  },
+  {
+    "name": "Critical Banker",
+    "attributeType": "LCK",
+    "attributeRank": 7,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "You're a patient battlefield tactician, and can save a Critical Hit, to be used in V.A.T.S. when you need it most.",
+        "characterLevel": null,
+        "formID": "0004C91F"
+      },
+      {
+        "rank": 2,
+        "description": "You can now save 2 Critical Hits, to be used in V.A.T.S. when you need them the most.",
+        "characterLevel": 17,
+        "formID": "0004C920"
+      },
+      {
+        "rank": 3,
+        "description": "You can now save 3 Critical Hits, to be used in V.A.T.S. when you need them the most. Banking a Critical has a chance to save an additional Critical.",
+        "characterLevel": 43,
+        "formID": "0004C921"
+      },
+      {
+        "rank": 4,
+        "description": "You can now save 4 Critical Hits, to be used in V.A.T.S. when you need them the most.",
+        "characterLevel": 50,
+        "addOnName": "Far Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Grim Reaper's Sprint",
+    "attributeType": "LCK",
+    "attributeRank": 8,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Death becomes you! Any kill in V.A.T.S. has a 15% chance to restore all Action Points.",
+        "characterLevel": null,
+        "formID": "0004D8A2"
+      },
+      {
+        "rank": 2,
+        "description": "Any kill in V.A.T.S. now has a 25% chance to restore all Action Points.",
+        "characterLevel": 19,
+        "formID": "00065E3E"
+      },
+      {
+        "rank": 3,
+        "description": "Any kill in V.A.T.S. has a 35% chance to restore all Action Points and refill your Critical meter.",
+        "characterLevel": 46,
+        "formID": "00065E3F"
+      }
+    ]
+  },
+  {
+    "name": "Four Leaf Clover",
+    "attributeType": "LCK",
+    "attributeRank": 9,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "Feeling Lucky? You should! Each hit in V.A.T.S. has a chance of filling your Critical meter.",
+        "characterLevel": null,
+        "formID": "0004D895"
+      },
+      {
+        "rank": 2,
+        "description": "Each hit in V.A.T.S. now has an even better chance of filling your Critical meter.",
+        "characterLevel": 13,
+        "formID": "00065E20"
+      },
+      {
+        "rank": 3,
+        "description": "Each hit in V.A.T.S. now has a very good chance of filling your Critical meter.",
+        "characterLevel": 32,
+        "formID": "00065E21"
+      },
+      {
+        "rank": 4,
+        "description": "Each hit in V.A.T.S. now has an excellent chance of filling your Critical meter.",
+        "characterLevel": 48,
+        "formID": "001D245B"
+      }
+    ]
+  },
+  {
+    "name": "Ricochet",
+    "attributeType": "LCK",
+    "attributeRank": 10,
+    "perkRanks": [
+      {
+        "rank": 1,
+        "description": "What goes around comes around! Any enemy's ranged attacks will sometimes ricochet back and instantly kill them. The closer you are to death, the higher the chance.",
+        "characterLevel": null,
+        "formID": "001D247C"
+      },
+      {
+        "rank": 2,
+        "description": "There's an increased chance that an enemy's shot will ricochet back and kill them.",
+        "characterLevel": 29,
+        "formID": "001D247D"
+      },
+      {
+        "rank": 3,
+        "description": "When an enemy's shot ricochets back and kills them, there is a chance your Critical meter gets filled.",
+        "characterLevel": 50,
+        "formID": "001D247E"
+      }
+    ]
+  }
+]

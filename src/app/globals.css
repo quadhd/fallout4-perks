@@ -16,8 +16,13 @@ body {
   font-family: Roboto Flex, sans-serif;
   font-size: 14px;
   font-synthesis: none;
-  font-variation-settings: "wght" 400, "wdth" 100, "opsz" 14, "GRAD" 0;
+  font-variation-settings: 'wght' 400, 'wdth' 100, 'opsz' 14, 'GRAD' 0;
   min-width: calc(var(--content-width) + 20px);
+
+  align-items: center;
+  background-color: var(--main-background-color);
+  display: flex;
+  flex-direction: column;
 }
 
 body,
@@ -42,11 +47,16 @@ button {
 
 .header-small-text {
   font-size: 18px;
-  font-variation-settings: "wght" 800, "wdth" 25, "opsz" 30, "GRAD" 0;
+  font-variation-settings: 'wght' 800, 'wdth' 25, 'opsz' 30, 'GRAD' 0;
   overflow: hidden;
 }
 
-#header {
+.hide {
+  opacity: 0;
+  transition: all 0.4s ease-in-out;
+}
+
+.header {
   display: flex;
   height: 100px;
   justify-content: space-between;
@@ -57,13 +67,13 @@ button {
   .header-title {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: flex-start;
 
     .header-main,
     .header-secondary {
       color: var(--theme-text-color);
       font-size: 64px;
-      font-variation-settings: "wght" 800, "wdth" 25, "opsz" 30, "GRAD" 0;
+      font-variation-settings: 'wght' 800, 'wdth' 25, 'opsz' 30, 'GRAD' 0;
     }
 
     .header-secondary {
@@ -76,7 +86,7 @@ button {
     align-items: center;
     display: flex;
     height: 100%;
-    justify-content: end;
+    justify-content: flex-end;
 
     .level-counter,
     .available-skill-points {
@@ -84,7 +94,7 @@ button {
       color: var(--lighter-gray-text-color);
       display: flex;
       font-size: 64px;
-      font-variation-settings: "wght" 800, "wdth" 25, "opsz" 30, "GRAD" 0;
+      font-variation-settings: 'wght' 800, 'wdth' 25, 'opsz' 30, 'GRAD' 0;
       padding-right: 24px;
       text-transform: uppercase;
       .label {
@@ -93,6 +103,10 @@ button {
         font-size: 24px;
         overflow-wrap: break-word;
         width: 120px;
+      }
+      .value {
+        width: 60px;
+        text-align: right;
       }
     }
 
@@ -108,7 +122,7 @@ button {
       box-shadow: var(--main-content-shadow);
       color: var(--main-background-color);
       font-size: 26px;
-      font-variation-settings: "wght" 800, "wdth" 25, "opsz" 30, "GRAD" 0;
+      font-variation-settings: 'wght' 800, 'wdth' 25, 'opsz' 30, 'GRAD' 0;
       height: 46px;
       padding: 0 24px;
       text-transform: uppercase;
@@ -156,7 +170,7 @@ button {
   display: flex;
   font: inherit;
   font-size: 24px;
-  font-variation-settings: "wght" 400, "wdth" 100, "opsz" 14, "GRAD" 0;
+  font-variation-settings: 'wght' 400, 'wdth' 100, 'opsz' 14, 'GRAD' 0;
   height: 40px;
   justify-content: center;
   margin: 4px;
@@ -209,7 +223,7 @@ button {
 
 .grid-item[disabled]::before {
   position: absolute;
-  content: "";
+  content: '';
   bottom: 0;
   left: 0;
   width: 100%;
@@ -221,7 +235,7 @@ button {
 
 .grid-item::before {
   position: absolute;
-  content: "";
+  content: '';
   bottom: 0;
   left: 0;
   width: 100%;
@@ -234,7 +248,7 @@ button {
 
 .grid-item {
   align-items: center;
-  background-image: url(../media/perk_poster.jpg);
+  background-image: url(/perk_poster.jpg);
   display: flex;
   flex-direction: column;
   font-size: 12px;
@@ -251,7 +265,7 @@ button {
   &:nth-child(7n + 1) .level {
     display: block;
     font-size: 32px;
-    font-variation-settings: "wght" 800, "wdth" 25, "opsz" 50, "GRAD" 0;
+    font-variation-settings: 'wght' 800, 'wdth' 25, 'opsz' 50, 'GRAD' 0;
     left: -1.5em;
     position: absolute;
     top: 38px;
@@ -309,13 +323,9 @@ button {
   }
 
   .perk-rank {
-    display: none;
-
-    &.current {
-      display: flex;
-      width: 100%;
-      flex-direction: column;
-    }
+    display: flex;
+    width: 100%;
+    flex-direction: column;
   }
 
   .selected-box {

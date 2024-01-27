@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "key": "STR",
+    "name": "Strength",
+    "description": "A measure of your raw physical power. It affects how much you can carry and the damage of all melee attacks."
+  },
+  {
+    "id": 1,
+    "key": "PER",
+    "name": "Perception",
+    "description": "Perception is a measurement of your environmental and situational awareness. It directly affects weapon accuracy in V.A.T.S. (Vault-Tec Assisted Targeting System), lock-picking skills, and successful attempts at stealing items."
+  },
+  {
+    "id": 2,
+    "key": "END",
+    "name": "Endurance",
+    "description": "A measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting."
+  },
+  {
+    "id": 3,
+    "key": "CHR",
+    "name": "Charisma",
+    "description": "Your ability to charm and convince others. It affects your success to persuade in dialogue, prices when you barter, and the maximum number of settlers in settlements."
+  },
+  {
+    "id": 4,
+    "key": "INT",
+    "name": "Intelligence",
+    "description": "A measure of your overall mental acuity. It affects the number of Experience Points earned and reduces the number of dud words when hacking terminals."
+  },
+  {
+    "id": 5,
+    "key": "AGI",
+    "name": "Agility",
+    "description": "A measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak."
+  },
+  {
+    "id": 6,
+    "key": "LCK",
+    "name": "Luck",
+    "description": "A measure of your general good fortune and affects the recharge rate of Critical Hits."
+  }
+]
